@@ -1,3 +1,4 @@
+private void BLAFair_getavoid(boolean[] isFinal, int n, int n_symbols, int[][][] post, int[][] post_len, boolean[][] W, boolean[][] X, int la){
 //... code before
 
 ForkJoinPool customThreadPool = new ForkJoinPool(Runtime.getRuntime().availableProcessors());
@@ -46,3 +47,4 @@ while(changed_x){
 }
 
 //... code after
+}
