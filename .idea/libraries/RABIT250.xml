@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="RABIT250">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/RABIT250/RABIT.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RABIT250/toTimbuk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RABIT250/TV.jar!/" />
+      <root url="jar://$PROJECT_DIR$/RABIT250/Reduce.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

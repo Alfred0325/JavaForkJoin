@@ -31,7 +31,7 @@ import automata.FiniteAutomaton;
  * @author Yu-Fang Chen, Richard Mayr
  * 
  */
-public class TV {
+public class  TV {
 	public static void main(String[] args) {	
 		Random r = new Random();
 		if(args.length<4){

@@ -17,12 +17,7 @@
 
 package algorithms;
 import java.lang.Math;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
-import java.util.Set;
-import java.util.TreeMap;
-import java.util.TreeSet;
+import java.util.*;
 import java.util.concurrent.*;;
 
 import automata.FAState;
@@ -5254,7 +5249,8 @@ private boolean Segment_BLAB_defense(int p, int q, boolean[] isFinal, boolean[] 
 	      // Seems faster + less memory use
 	      /*
 	      
-		ArrayList<FAState> all_states = new ArrayList<FAState>();
+
+		ArrayList<FAState> all_states = new ArrayList<FAState>();
 		HashSet<String> alphabet = new HashSet<String>();
 
 		all_states.addAll(omega1.states);
