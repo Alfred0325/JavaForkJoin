@@ -7,6 +7,8 @@ In function BLAFair_getavoid：
 In function ComparePerformance.main():
 > 1. 读进 两个automata后需要由 FiniteAutomaton进行 toBA() 操作否则sim和parallelsim结果不一致？？？（需探究为什么）
 > 2. 同样的任务同样的function执行多次，执行时间会有较大差异，通常每执行一次，下一次执行时间会更短
+> 3. la parameter between 1 and 12.
+> 4. 关于读进的两个automata，如何选择（比如 是相同参数吗？）
 >
 
 问题：
