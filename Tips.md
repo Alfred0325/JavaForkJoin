@@ -14,7 +14,9 @@ In function ComparePerformance.main():
 问题：
 > 1. 我该如何测试拆分p，q的程度 (由于本身每次执行时间都不确定)？
 > 2. 有1000个文件data后，如何选取其中两个来插入比较
+> 3. 对于诸如 BLAFair_getavoid_devideNum， 由于在每一个p，q循环中内部执行时间不一样，对于p的拆分程度（即 BLAFair_getavoid_devideNum）也应当不一样，我需要管他吗
 >
 
 想法：
 > 1. 由于在function BLAFair_getavoid 中，changed_x和changed_y并不直接关联，因此局部最优解可以导致全局最优解（即，对于每个小部分都要求时间最短，则整个function执行时间最短）
+> 2. 在写报告时可以写一下： 对于每一个p，q循环，如何通过公式计算出t越大，拆分程度keyiyueda（n^2*t > (n^2/m)*(T+t) + d）
