@@ -759,7 +759,7 @@ public class RABIT {
 		if(Options.finite){
 		    if(Options.verbose) System.out.println("Checking inclusion of finite automata.");
 		    if(Options.par){
-			if(par_inclusion_finite(aut1, aut2)) 
+			if(par_inclusion_finite(aut1, aut2))
 			    System.out.println("Included.");
 			else System.out.println("Not included.");
 		    }

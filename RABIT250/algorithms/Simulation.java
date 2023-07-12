@@ -8583,7 +8583,8 @@ private boolean Segment_BLAB_defense(int p, int q, boolean[] isFinal, boolean[] 
 	   It cannot replace normal bw-sim.  */ 
 
 	  public Set<Pair<FAState, FAState>> acceptance_blind_BackwardSimRelNBW(FiniteAutomaton omega1, FiniteAutomaton omega2) {
-		ArrayList<FAState> all_states = new ArrayList<FAState>();
+
+		ArrayList<FAState> all_states = new ArrayList<FAState>();
 		HashSet<String> alphabet = new HashSet<String>();
 
 		all_states.addAll(omega1.states);
@@ -8825,13 +8826,25 @@ while(changed_x){
     boolean changed_y=true;
     while(changed_y){
 	changed_y=false;
-	for(int p=0; p<n; p++)
-	    for(int q=0; q<n; q++){
-		if(Y[p][q]) continue; // If Y true then stay true
-		if(isFinal[q]) continue; // In getavoid duplicator can't accept, except in W (the part of Y in W is already true; see above)
-		attack[0]=p;
-		if(BLAFair_getavoid_attack(q,isFinal,n_symbols,post,post_len,W,X,Y,la,attack,0))  { Y[p][q]=true; changed_y=true; }
-	    }
+
+		//long ttime1 = System.currentTimeMillis();
+
+	for(int p=0; p<n; p++) {
+		for (int q = 0; q < n; q++) {
+			if (Y[p][q]) continue; // If Y true then stay true
+			if (isFinal[q])
+				continue; // In getavoid duplicator can't accept, except in W (the part of Y in W is already true; see above)
+			attack[0] = p;
+			if (BLAFair_getavoid_attack(q, isFinal, n_symbols, post, post_len, W, X, Y, la, attack, 0)) {
+				Y[p][q] = true;
+				changed_y = true;
+			}
+		}
+	}
+
+		//long ttime2 = System.currentTimeMillis();
+		//System.out.println("Time used(ms) for single subtask Sequential: "+(ttime2-ttime1)+" ms.");
+
     }
     // X becomes Y, i.e., remove true elements of X that are not true in Y
     for(int p=0; p<n; p++)
