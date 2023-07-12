@@ -13,6 +13,8 @@ In function ComparePerformance.main():
 
 问题：
 > 1. 我该如何测试拆分p，q的程度 (由于本身每次执行时间都不确定)？
+> 2. 有1000个文件data后，如何选取其中两个来插入比较
 >
+
 想法：
 > 1. 由于在function BLAFair_getavoid 中，changed_x和changed_y并不直接关联，因此局部最优解可以导致全局最优解（即，对于每个小部分都要求时间最短，则整个function执行时间最短）
