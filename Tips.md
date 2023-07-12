@@ -2,6 +2,7 @@ In function BLAFair_getavoid：
 > 1. 在p, q循环内每一次都提交到forkjoinpool任务太慢了，原因是每次提交任务至forjoinpool（即使是空任务）需要9ms左右的时间， 而在p，q循环内执行一次不到 1 ms（0 ms）
 > 2. 尝试在每一个p循环内对全部的q（for q = ..; q < ...; q++）提交至一个forkjoinpool任务，任务时长仍然比sequential要慢
 > 3. 由于是forkjoinpool， 需要改成诸如 “AtomicBoolean changed_y”，还有 “final int pFinal = p;” “changed_y.set(true);”， 这些操作也会导致同比sequential要慢大约 6ms
+> 4. la 越大，sequential执行时间越长，而parallel version节约时间的效果越显著， 在la=1,2,3时 sequential执行时间更短
 >
 
 In function ComparePerformance.main():
