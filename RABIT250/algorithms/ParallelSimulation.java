@@ -43,17 +43,18 @@ public class ParallelSimulation{
 
 	//NOTICE: Work Done
 	public ParallelSimulation(){
-
 	}
 
-	public ParallelSimulation(int num_proc, int BLAFair_getavoid_devideNum){
-		ParallelSimulation.BLAFair_getavoid_devideNum = BLAFair_getavoid_devideNum;
+	public ParallelSimulation(int num_proc, int devideNum){
+		ParallelSimulation.BLAFair_getavoid_devideNum = devideNum;
+		ParallelSimulation.BLAFair_refine_W_devideNum = devideNum;
+
 		customForkJoinPool = new ForkJoinPool(num_proc);
 
 //		System.out.println(ParallelSimulation.num_proc+", "+ParallelSimulation.BLAFair_getavoid_devideNum);
 		int parallelism = customForkJoinPool.getParallelism();
 		int workingThread = customForkJoinPool.getPoolSize();
-		System.out.println("Parallelism level of the custom pool: " + parallelism + ", and the current active threads: " + workingThread);
+		//System.out.println("Parallelism level of the custom pool: " + parallelism + ", and the current active threads: " + workingThread);
 	}
 
 
@@ -5412,18 +5413,48 @@ private void show_jumps(String s, int[][] jump, int[] jump_len, int[][] acc_jump
 	}
 
 
+	//NOTICE: Work Done
+	public static int BLAFair_refine_W_devideNum = 2;
 
 	private boolean BLAFair_refine_W(int n, int n_symbols, int[][][] post, int[][] post_len, boolean[][] W, int la)
 	{
 		int[] attack = new int[2*la+1];
-		boolean changed=false;
-		for(int p=0; p<n; p++)
-			for(int q=0; q<n; q++){
-				if(W[p][q]) continue; // true remains true;
-				attack[0]=p;
-				if(BLAFair_attack(q,n_symbols,post,post_len,W,la,attack,0)) { W[p][q]=true; changed=true; }
-			}
-		return changed;
+		AtomicBoolean changed= new AtomicBoolean(false);
+
+		for (int i = 0; i < BLAFair_getavoid_devideNum; i++){
+			int section = n/BLAFair_getavoid_devideNum;
+			final int start = i * section;
+			final int end = i == BLAFair_getavoid_devideNum-1 ? n : (i+1)*section;
+
+			customForkJoinPool.submit(() -> {
+				for(int p = start; p < end; p++) {
+					for (int q = 0; q < n; q++) {
+						if(W[p][q]) continue; // true remains true;
+						attack[0]=p;
+						if(BLAFair_attack(q,n_symbols,post,post_len,W,la,attack,0)) { W[p][q]=true; changed.set(true); }
+					}
+				}
+			}).join();
+		}
+
+//		for(int p=0; p<n; p++){
+//			final int pFinal = p;
+//			customForkJoinPool.submit(() -> {
+//				for (int q = 0; q < n; q++) {
+//					if(W[pFinal][q]) continue; // true remains true;
+//					attack[0]=pFinal;
+//					if(BLAFair_attack(q,n_symbols,post,post_len,W,la,attack,0)) { W[pFinal][q]=true; changed.set(true); }
+//				}
+//			}).join();
+//		}
+
+//		for(int p=0; p<n; p++)
+//			for(int q=0; q<n; q++){
+//				if(W[p][q]) continue; // true remains true;
+//				attack[0]=p;
+//				if(BLAFair_attack(q,n_symbols,post,post_len,W,la,attack,0)) { W[p][q]=true; changed=true; }
+//			}
+		return changed.get();
 	}
 
 
@@ -5476,40 +5507,69 @@ private void show_jumps(String s, int[][] jump, int[] jump_len, int[][] acc_jump
 			for(int q=0; q<n; q++)
 				X[p][q]=true;
 
-		boolean changed_x=true;
-		while(changed_x){
-			changed_x=false;
+		AtomicBoolean changed_x= new AtomicBoolean(true);
+		while(changed_x.get()){
+			changed_x.set(false);
 			// Y is at least W and refined upward
-			for(int p=0; p<n; p++)
-				for(int q=0; q<n; q++) Y[p][q]=W[p][q];
+			for (int i = 0; i < 4; i++){
+				int section = n/4;
+				final int start = i * section;
+				final int end = i == 4-1 ? n : (i+1)*section;
+
+				customForkJoinPool.submit(() -> {
+					for(int p=start; p<end; p++) {
+						for (int q = 0; q < n; q++) {
+							Y[p][q]=W[p][q];
+						}
+					}
+				}).join();
+			}
 
 			AtomicBoolean changed_y= new AtomicBoolean(true);
 
 			while(changed_y.get()){
 				changed_y.set(false);
-
-				for(int p=0; p<n; p++) {
-					final int pFinal = p;
+				for (int i = 0; i < BLAFair_getavoid_devideNum; i++){
+					int section = n/BLAFair_getavoid_devideNum;
+					final int start = i * section;
+					final int end = i == BLAFair_getavoid_devideNum-1 ? n : (i+1)*section;
 
 					customForkJoinPool.submit(() -> {
-						for (int q = 0; q < n; q++) {
-							if (Y[pFinal][q]) continue; // If Y true then stay true
-							if (isFinal[q])
-								continue; // In getavoid duplicator can't accept, except in W (the part of Y in W is already true; see above)
-							attack[0] = pFinal;
-							if (BLAFair_getavoid_attack(q, isFinal, n_symbols, post, post_len, W, X, Y, la, attack, 0)) {
-								Y[pFinal][q] = true;
-								changed_y.set(true);
+						for(int p = start; p < end; p++) {
+							for (int q = 0; q < n; q++) {
+								if (Y[p][q]) continue; // If Y true then stay true
+								if (isFinal[q])
+									continue; // In getavoid duplicator can't accept, except in W (the part of Y in W is already true; see above)
+								attack[0] = p;
+								if (BLAFair_getavoid_attack(q, isFinal, n_symbols, post, post_len, W, X, Y, la, attack, 0)) {
+									Y[p][q] = true;
+									changed_y.set(true);
+								}
 							}
 						}
 					}).join();
 				}
+
 			}
 			// X becomes Y, i.e., remove true elements of X that are not true in Y
-			for(int p=0; p<n; p++)
-				for(int q=0; q<n; q++){
-					if(X[p][q] && !Y[p][q]) { X[p][q]=false; changed_x=true; }
-				}
+			for (int i = 0; i < 4; i++){
+				int section = n/4;
+				final int start = i * section;
+				final int end = i == 4-1 ? n : (i+1)*section;
+
+				customForkJoinPool.submit(() -> {
+					for(int p=start; p<end; p++) {
+						for (int q = 0; q < n; q++) {
+							if(X[p][q] && !Y[p][q]) { X[p][q]=false; changed_x.set(true); }
+						}
+					}
+				}).join();
+			}
+
+//			for(int p=0; p<n; p++)
+//				for(int q=0; q<n; q++){
+//					if(X[p][q] && !Y[p][q]) { X[p][q]=false; changed_x=true; }
+//				}
 		}
 	}
 

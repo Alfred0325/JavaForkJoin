@@ -3,47 +3,5524 @@ The compared two automata files are:
 1.  ./Examples/bakery.1.c.ba
 2.  ./Examples/fischer.3.c.ba
 
-The Running Time 1: 
-Parallelism level of the custom pool: 8, and the current active threads: 0
---------------------------------------------------
-Time used(ms) for Sequential Version: 4208 ms.
-Time used(ms) for Parallel Version: 5025 ms.
+The created processsor number is:  8
 
-Correct! The calculated parallel result is the same as the sequential result!
+*************  La: 1, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2227 ms.
+Time used(ms) for Parallel Version: 2808 ms.
+
 ================================================
 
 The Running Time 2: 
-Parallelism level of the custom pool: 8, and the current active threads: 0
 --------------------------------------------------
-Time used(ms) for Sequential Version: 2278 ms.
-Time used(ms) for Parallel Version: 3008 ms.
+Time used(ms) for Sequential Version: 2087 ms.
+Time used(ms) for Parallel Version: 2629 ms.
 
-Correct! The calculated parallel result is the same as the sequential result!
 ================================================
 
 The Running Time 3: 
-Parallelism level of the custom pool: 8, and the current active threads: 0
 --------------------------------------------------
-Time used(ms) for Sequential Version: 2179 ms.
-Time used(ms) for Parallel Version: 3060 ms.
+Time used(ms) for Sequential Version: 2141 ms.
+Time used(ms) for Parallel Version: 2543 ms.
 
-Correct! The calculated parallel result is the same as the sequential result!
 ================================================
 
-The Running Time 4: 
-Parallelism level of the custom pool: 8, and the current active threads: 0
---------------------------------------------------
-Time used(ms) for Sequential Version: 2036 ms.
-Time used(ms) for Parallel Version: 2963 ms.
+*************  La: 1, BLAFair_getavoid_devideNum: 2  *********************
 
-Correct! The calculated parallel result is the same as the sequential result!
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2097 ms.
+Time used(ms) for Parallel Version: 2536 ms.
+
 ================================================
 
-The Running Time 5: 
-Parallelism level of the custom pool: 8, and the current active threads: 0
+The Running Time 2: 
 --------------------------------------------------
-Time used(ms) for Sequential Version: 2029 ms.
-Time used(ms) for Parallel Version: 2957 ms.
+Time used(ms) for Sequential Version: 2070 ms.
+Time used(ms) for Parallel Version: 2692 ms.
 
-Correct! The calculated parallel result is the same as the sequential result!
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2354 ms.
+Time used(ms) for Parallel Version: 2983 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9226 ms.
+Time used(ms) for Parallel Version: 7666 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3156 ms.
+Time used(ms) for Parallel Version: 7222 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9681 ms.
+Time used(ms) for Parallel Version: 6897 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4070 ms.
+Time used(ms) for Parallel Version: 5249 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3309 ms.
+Time used(ms) for Parallel Version: 3005 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2074 ms.
+Time used(ms) for Parallel Version: 2587 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2079 ms.
+Time used(ms) for Parallel Version: 2622 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2040 ms.
+Time used(ms) for Parallel Version: 2490 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2048 ms.
+Time used(ms) for Parallel Version: 2532 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2050 ms.
+Time used(ms) for Parallel Version: 2520 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2062 ms.
+Time used(ms) for Parallel Version: 2481 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2432 ms.
+Time used(ms) for Parallel Version: 2570 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2072 ms.
+Time used(ms) for Parallel Version: 2531 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2084 ms.
+Time used(ms) for Parallel Version: 2504 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2066 ms.
+Time used(ms) for Parallel Version: 2764 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2053 ms.
+Time used(ms) for Parallel Version: 2509 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2073 ms.
+Time used(ms) for Parallel Version: 2470 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2062 ms.
+Time used(ms) for Parallel Version: 2674 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2077 ms.
+Time used(ms) for Parallel Version: 2551 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2068 ms.
+Time used(ms) for Parallel Version: 2520 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2062 ms.
+Time used(ms) for Parallel Version: 2562 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2081 ms.
+Time used(ms) for Parallel Version: 2791 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2086 ms.
+Time used(ms) for Parallel Version: 2489 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2069 ms.
+Time used(ms) for Parallel Version: 2487 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2078 ms.
+Time used(ms) for Parallel Version: 2516 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2026 ms.
+Time used(ms) for Parallel Version: 2500 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2078 ms.
+Time used(ms) for Parallel Version: 2467 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2053 ms.
+Time used(ms) for Parallel Version: 2509 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2059 ms.
+Time used(ms) for Parallel Version: 2512 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2042 ms.
+Time used(ms) for Parallel Version: 2539 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2431 ms.
+Time used(ms) for Parallel Version: 2795 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2166 ms.
+Time used(ms) for Parallel Version: 2587 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2086 ms.
+Time used(ms) for Parallel Version: 2516 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2078 ms.
+Time used(ms) for Parallel Version: 2593 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2093 ms.
+Time used(ms) for Parallel Version: 2620 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2391 ms.
+Time used(ms) for Parallel Version: 2631 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2162 ms.
+Time used(ms) for Parallel Version: 2518 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2091 ms.
+Time used(ms) for Parallel Version: 2530 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2112 ms.
+Time used(ms) for Parallel Version: 2464 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2086 ms.
+Time used(ms) for Parallel Version: 2570 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2111 ms.
+Time used(ms) for Parallel Version: 2507 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2083 ms.
+Time used(ms) for Parallel Version: 2493 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2046 ms.
+Time used(ms) for Parallel Version: 2539 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2100 ms.
+Time used(ms) for Parallel Version: 2492 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2067 ms.
+Time used(ms) for Parallel Version: 2510 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2065 ms.
+Time used(ms) for Parallel Version: 2506 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2110 ms.
+Time used(ms) for Parallel Version: 2542 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2061 ms.
+Time used(ms) for Parallel Version: 2489 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2062 ms.
+Time used(ms) for Parallel Version: 2529 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2043 ms.
+Time used(ms) for Parallel Version: 2500 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2056 ms.
+Time used(ms) for Parallel Version: 2490 ms.
+
+================================================
+
+*************  La: 1, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2121 ms.
+Time used(ms) for Parallel Version: 2616 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2522 ms.
+Time used(ms) for Parallel Version: 2524 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2054 ms.
+Time used(ms) for Parallel Version: 2485 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2498 ms.
+Time used(ms) for Parallel Version: 2879 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2443 ms.
+Time used(ms) for Parallel Version: 2851 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2443 ms.
+Time used(ms) for Parallel Version: 2887 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2469 ms.
+Time used(ms) for Parallel Version: 2910 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2446 ms.
+Time used(ms) for Parallel Version: 2891 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2419 ms.
+Time used(ms) for Parallel Version: 2879 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2446 ms.
+Time used(ms) for Parallel Version: 2855 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2432 ms.
+Time used(ms) for Parallel Version: 2874 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2428 ms.
+Time used(ms) for Parallel Version: 2890 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2461 ms.
+Time used(ms) for Parallel Version: 2893 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2430 ms.
+Time used(ms) for Parallel Version: 2906 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2447 ms.
+Time used(ms) for Parallel Version: 2863 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2448 ms.
+Time used(ms) for Parallel Version: 2863 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2411 ms.
+Time used(ms) for Parallel Version: 2873 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2412 ms.
+Time used(ms) for Parallel Version: 2914 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2481 ms.
+Time used(ms) for Parallel Version: 2904 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2462 ms.
+Time used(ms) for Parallel Version: 2907 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2460 ms.
+Time used(ms) for Parallel Version: 2870 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2426 ms.
+Time used(ms) for Parallel Version: 2819 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2469 ms.
+Time used(ms) for Parallel Version: 2855 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2432 ms.
+Time used(ms) for Parallel Version: 2904 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2478 ms.
+Time used(ms) for Parallel Version: 2863 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2446 ms.
+Time used(ms) for Parallel Version: 2878 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2424 ms.
+Time used(ms) for Parallel Version: 2839 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2464 ms.
+Time used(ms) for Parallel Version: 2829 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2442 ms.
+Time used(ms) for Parallel Version: 2890 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2398 ms.
+Time used(ms) for Parallel Version: 2865 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2399 ms.
+Time used(ms) for Parallel Version: 2922 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2435 ms.
+Time used(ms) for Parallel Version: 2873 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2458 ms.
+Time used(ms) for Parallel Version: 2857 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2448 ms.
+Time used(ms) for Parallel Version: 2887 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2462 ms.
+Time used(ms) for Parallel Version: 2891 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2443 ms.
+Time used(ms) for Parallel Version: 2876 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2432 ms.
+Time used(ms) for Parallel Version: 2876 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2420 ms.
+Time used(ms) for Parallel Version: 2855 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2408 ms.
+Time used(ms) for Parallel Version: 2890 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2446 ms.
+Time used(ms) for Parallel Version: 2845 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2431 ms.
+Time used(ms) for Parallel Version: 2858 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2414 ms.
+Time used(ms) for Parallel Version: 3026 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2421 ms.
+Time used(ms) for Parallel Version: 2898 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2424 ms.
+Time used(ms) for Parallel Version: 2899 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2425 ms.
+Time used(ms) for Parallel Version: 2831 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2448 ms.
+Time used(ms) for Parallel Version: 2874 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2439 ms.
+Time used(ms) for Parallel Version: 2842 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2422 ms.
+Time used(ms) for Parallel Version: 2868 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2455 ms.
+Time used(ms) for Parallel Version: 2832 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2470 ms.
+Time used(ms) for Parallel Version: 2886 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2482 ms.
+Time used(ms) for Parallel Version: 2890 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2437 ms.
+Time used(ms) for Parallel Version: 2896 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2413 ms.
+Time used(ms) for Parallel Version: 2944 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2428 ms.
+Time used(ms) for Parallel Version: 2930 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2407 ms.
+Time used(ms) for Parallel Version: 2895 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2412 ms.
+Time used(ms) for Parallel Version: 2899 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2411 ms.
+Time used(ms) for Parallel Version: 2931 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2441 ms.
+Time used(ms) for Parallel Version: 2868 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2444 ms.
+Time used(ms) for Parallel Version: 2859 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2420 ms.
+Time used(ms) for Parallel Version: 2928 ms.
+
+================================================
+
+*************  La: 2, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2422 ms.
+Time used(ms) for Parallel Version: 2848 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2450 ms.
+Time used(ms) for Parallel Version: 2894 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 2447 ms.
+Time used(ms) for Parallel Version: 2906 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3318 ms.
+Time used(ms) for Parallel Version: 3275 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3309 ms.
+Time used(ms) for Parallel Version: 3692 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4053 ms.
+Time used(ms) for Parallel Version: 3207 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3153 ms.
+Time used(ms) for Parallel Version: 3151 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3205 ms.
+Time used(ms) for Parallel Version: 3238 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3104 ms.
+Time used(ms) for Parallel Version: 3187 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3375 ms.
+Time used(ms) for Parallel Version: 3244 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3182 ms.
+Time used(ms) for Parallel Version: 3193 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3126 ms.
+Time used(ms) for Parallel Version: 3229 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3183 ms.
+Time used(ms) for Parallel Version: 3099 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3138 ms.
+Time used(ms) for Parallel Version: 3213 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3115 ms.
+Time used(ms) for Parallel Version: 3167 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3234 ms.
+Time used(ms) for Parallel Version: 3252 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3141 ms.
+Time used(ms) for Parallel Version: 3184 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3141 ms.
+Time used(ms) for Parallel Version: 3271 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3266 ms.
+Time used(ms) for Parallel Version: 3214 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3258 ms.
+Time used(ms) for Parallel Version: 3386 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3287 ms.
+Time used(ms) for Parallel Version: 3291 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3327 ms.
+Time used(ms) for Parallel Version: 3276 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3305 ms.
+Time used(ms) for Parallel Version: 3169 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3274 ms.
+Time used(ms) for Parallel Version: 3278 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3320 ms.
+Time used(ms) for Parallel Version: 3275 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3160 ms.
+Time used(ms) for Parallel Version: 3287 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3264 ms.
+Time used(ms) for Parallel Version: 3182 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3350 ms.
+Time used(ms) for Parallel Version: 3295 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3451 ms.
+Time used(ms) for Parallel Version: 3468 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3478 ms.
+Time used(ms) for Parallel Version: 3368 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3445 ms.
+Time used(ms) for Parallel Version: 3248 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3307 ms.
+Time used(ms) for Parallel Version: 3242 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3326 ms.
+Time used(ms) for Parallel Version: 3231 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3265 ms.
+Time used(ms) for Parallel Version: 3235 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3281 ms.
+Time used(ms) for Parallel Version: 3218 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3438 ms.
+Time used(ms) for Parallel Version: 3538 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3580 ms.
+Time used(ms) for Parallel Version: 3519 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3604 ms.
+Time used(ms) for Parallel Version: 3415 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3307 ms.
+Time used(ms) for Parallel Version: 3260 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3310 ms.
+Time used(ms) for Parallel Version: 3292 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3267 ms.
+Time used(ms) for Parallel Version: 3255 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3380 ms.
+Time used(ms) for Parallel Version: 3250 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3349 ms.
+Time used(ms) for Parallel Version: 3228 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3279 ms.
+Time used(ms) for Parallel Version: 3354 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3406 ms.
+Time used(ms) for Parallel Version: 3297 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3272 ms.
+Time used(ms) for Parallel Version: 3167 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3262 ms.
+Time used(ms) for Parallel Version: 3195 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3338 ms.
+Time used(ms) for Parallel Version: 3230 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3282 ms.
+Time used(ms) for Parallel Version: 3450 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3307 ms.
+Time used(ms) for Parallel Version: 3277 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3307 ms.
+Time used(ms) for Parallel Version: 3267 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3263 ms.
+Time used(ms) for Parallel Version: 3270 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3415 ms.
+Time used(ms) for Parallel Version: 3303 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3372 ms.
+Time used(ms) for Parallel Version: 3314 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3278 ms.
+Time used(ms) for Parallel Version: 3321 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3316 ms.
+Time used(ms) for Parallel Version: 3372 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3317 ms.
+Time used(ms) for Parallel Version: 3285 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3281 ms.
+Time used(ms) for Parallel Version: 3176 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3381 ms.
+Time used(ms) for Parallel Version: 4433 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4665 ms.
+Time used(ms) for Parallel Version: 3482 ms.
+
+================================================
+
+*************  La: 3, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3227 ms.
+Time used(ms) for Parallel Version: 3245 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3150 ms.
+Time used(ms) for Parallel Version: 3197 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 3144 ms.
+Time used(ms) for Parallel Version: 3249 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4389 ms.
+Time used(ms) for Parallel Version: 3840 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4462 ms.
+Time used(ms) for Parallel Version: 3858 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4375 ms.
+Time used(ms) for Parallel Version: 3830 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4412 ms.
+Time used(ms) for Parallel Version: 3902 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4396 ms.
+Time used(ms) for Parallel Version: 3860 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4472 ms.
+Time used(ms) for Parallel Version: 3845 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4428 ms.
+Time used(ms) for Parallel Version: 3842 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4430 ms.
+Time used(ms) for Parallel Version: 3867 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4414 ms.
+Time used(ms) for Parallel Version: 3878 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4402 ms.
+Time used(ms) for Parallel Version: 3841 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4385 ms.
+Time used(ms) for Parallel Version: 3895 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4415 ms.
+Time used(ms) for Parallel Version: 3881 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4436 ms.
+Time used(ms) for Parallel Version: 3885 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4420 ms.
+Time used(ms) for Parallel Version: 3893 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4414 ms.
+Time used(ms) for Parallel Version: 3834 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4420 ms.
+Time used(ms) for Parallel Version: 3870 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4402 ms.
+Time used(ms) for Parallel Version: 3918 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4428 ms.
+Time used(ms) for Parallel Version: 3865 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4402 ms.
+Time used(ms) for Parallel Version: 3994 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4517 ms.
+Time used(ms) for Parallel Version: 3789 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4381 ms.
+Time used(ms) for Parallel Version: 3852 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4395 ms.
+Time used(ms) for Parallel Version: 3819 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4444 ms.
+Time used(ms) for Parallel Version: 3789 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4417 ms.
+Time used(ms) for Parallel Version: 3782 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4381 ms.
+Time used(ms) for Parallel Version: 3879 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4624 ms.
+Time used(ms) for Parallel Version: 3808 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4423 ms.
+Time used(ms) for Parallel Version: 3870 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4433 ms.
+Time used(ms) for Parallel Version: 3896 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4406 ms.
+Time used(ms) for Parallel Version: 3918 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4427 ms.
+Time used(ms) for Parallel Version: 3889 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4400 ms.
+Time used(ms) for Parallel Version: 3830 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4784 ms.
+Time used(ms) for Parallel Version: 3836 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4464 ms.
+Time used(ms) for Parallel Version: 3797 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4479 ms.
+Time used(ms) for Parallel Version: 3785 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4436 ms.
+Time used(ms) for Parallel Version: 3800 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4426 ms.
+Time used(ms) for Parallel Version: 3774 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4637 ms.
+Time used(ms) for Parallel Version: 3918 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4402 ms.
+Time used(ms) for Parallel Version: 3933 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4445 ms.
+Time used(ms) for Parallel Version: 4090 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4368 ms.
+Time used(ms) for Parallel Version: 3922 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4576 ms.
+Time used(ms) for Parallel Version: 3915 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4391 ms.
+Time used(ms) for Parallel Version: 4223 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4606 ms.
+Time used(ms) for Parallel Version: 4040 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4461 ms.
+Time used(ms) for Parallel Version: 3904 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4522 ms.
+Time used(ms) for Parallel Version: 3950 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4431 ms.
+Time used(ms) for Parallel Version: 3938 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4616 ms.
+Time used(ms) for Parallel Version: 3944 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4402 ms.
+Time used(ms) for Parallel Version: 3942 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4409 ms.
+Time used(ms) for Parallel Version: 3970 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4470 ms.
+Time used(ms) for Parallel Version: 3960 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4439 ms.
+Time used(ms) for Parallel Version: 3964 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4748 ms.
+Time used(ms) for Parallel Version: 3954 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4444 ms.
+Time used(ms) for Parallel Version: 3957 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4421 ms.
+Time used(ms) for Parallel Version: 3914 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4429 ms.
+Time used(ms) for Parallel Version: 3963 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4422 ms.
+Time used(ms) for Parallel Version: 3958 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4411 ms.
+Time used(ms) for Parallel Version: 3944 ms.
+
+================================================
+
+*************  La: 4, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4382 ms.
+Time used(ms) for Parallel Version: 3930 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4422 ms.
+Time used(ms) for Parallel Version: 3918 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 4432 ms.
+Time used(ms) for Parallel Version: 3957 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6694 ms.
+Time used(ms) for Parallel Version: 5073 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6868 ms.
+Time used(ms) for Parallel Version: 5101 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6689 ms.
+Time used(ms) for Parallel Version: 5086 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6880 ms.
+Time used(ms) for Parallel Version: 5069 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6911 ms.
+Time used(ms) for Parallel Version: 6086 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6665 ms.
+Time used(ms) for Parallel Version: 5064 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6678 ms.
+Time used(ms) for Parallel Version: 4987 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6690 ms.
+Time used(ms) for Parallel Version: 4927 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6699 ms.
+Time used(ms) for Parallel Version: 5125 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6657 ms.
+Time used(ms) for Parallel Version: 5070 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6861 ms.
+Time used(ms) for Parallel Version: 4982 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6878 ms.
+Time used(ms) for Parallel Version: 5014 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6673 ms.
+Time used(ms) for Parallel Version: 4941 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6887 ms.
+Time used(ms) for Parallel Version: 5032 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6888 ms.
+Time used(ms) for Parallel Version: 5100 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6661 ms.
+Time used(ms) for Parallel Version: 5045 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6895 ms.
+Time used(ms) for Parallel Version: 5026 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6661 ms.
+Time used(ms) for Parallel Version: 4940 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6885 ms.
+Time used(ms) for Parallel Version: 5188 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6673 ms.
+Time used(ms) for Parallel Version: 5089 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6889 ms.
+Time used(ms) for Parallel Version: 5181 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6869 ms.
+Time used(ms) for Parallel Version: 5009 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6903 ms.
+Time used(ms) for Parallel Version: 4985 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6674 ms.
+Time used(ms) for Parallel Version: 4996 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6596 ms.
+Time used(ms) for Parallel Version: 5104 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6982 ms.
+Time used(ms) for Parallel Version: 5020 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6904 ms.
+Time used(ms) for Parallel Version: 5009 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6866 ms.
+Time used(ms) for Parallel Version: 5004 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6866 ms.
+Time used(ms) for Parallel Version: 5043 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6676 ms.
+Time used(ms) for Parallel Version: 5106 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6905 ms.
+Time used(ms) for Parallel Version: 5107 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6684 ms.
+Time used(ms) for Parallel Version: 5064 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6702 ms.
+Time used(ms) for Parallel Version: 5005 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6871 ms.
+Time used(ms) for Parallel Version: 5067 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6881 ms.
+Time used(ms) for Parallel Version: 5066 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6877 ms.
+Time used(ms) for Parallel Version: 5054 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 7316 ms.
+Time used(ms) for Parallel Version: 5195 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6822 ms.
+Time used(ms) for Parallel Version: 5091 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6653 ms.
+Time used(ms) for Parallel Version: 5044 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6873 ms.
+Time used(ms) for Parallel Version: 5051 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6886 ms.
+Time used(ms) for Parallel Version: 5036 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6863 ms.
+Time used(ms) for Parallel Version: 4941 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6698 ms.
+Time used(ms) for Parallel Version: 5012 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6900 ms.
+Time used(ms) for Parallel Version: 5051 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6899 ms.
+Time used(ms) for Parallel Version: 5026 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6882 ms.
+Time used(ms) for Parallel Version: 5129 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6864 ms.
+Time used(ms) for Parallel Version: 5117 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6679 ms.
+Time used(ms) for Parallel Version: 5144 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6893 ms.
+Time used(ms) for Parallel Version: 5026 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6876 ms.
+Time used(ms) for Parallel Version: 5049 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6949 ms.
+Time used(ms) for Parallel Version: 5053 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6663 ms.
+Time used(ms) for Parallel Version: 5105 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6660 ms.
+Time used(ms) for Parallel Version: 4963 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6867 ms.
+Time used(ms) for Parallel Version: 5009 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6892 ms.
+Time used(ms) for Parallel Version: 5021 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 7012 ms.
+Time used(ms) for Parallel Version: 5206 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6658 ms.
+Time used(ms) for Parallel Version: 5149 ms.
+
+================================================
+
+*************  La: 5, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6728 ms.
+Time used(ms) for Parallel Version: 5173 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6691 ms.
+Time used(ms) for Parallel Version: 5075 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 6943 ms.
+Time used(ms) for Parallel Version: 5108 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10300 ms.
+Time used(ms) for Parallel Version: 6905 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9996 ms.
+Time used(ms) for Parallel Version: 6930 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9942 ms.
+Time used(ms) for Parallel Version: 6952 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10026 ms.
+Time used(ms) for Parallel Version: 7068 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10578 ms.
+Time used(ms) for Parallel Version: 7226 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10743 ms.
+Time used(ms) for Parallel Version: 6922 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9915 ms.
+Time used(ms) for Parallel Version: 6900 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10115 ms.
+Time used(ms) for Parallel Version: 6951 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9889 ms.
+Time used(ms) for Parallel Version: 6940 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9978 ms.
+Time used(ms) for Parallel Version: 6895 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9933 ms.
+Time used(ms) for Parallel Version: 7108 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10068 ms.
+Time used(ms) for Parallel Version: 6907 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10729 ms.
+Time used(ms) for Parallel Version: 6942 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9947 ms.
+Time used(ms) for Parallel Version: 6937 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10347 ms.
+Time used(ms) for Parallel Version: 7021 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10048 ms.
+Time used(ms) for Parallel Version: 6853 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10084 ms.
+Time used(ms) for Parallel Version: 6921 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10127 ms.
+Time used(ms) for Parallel Version: 6915 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10452 ms.
+Time used(ms) for Parallel Version: 6885 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9897 ms.
+Time used(ms) for Parallel Version: 6985 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10044 ms.
+Time used(ms) for Parallel Version: 6896 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10759 ms.
+Time used(ms) for Parallel Version: 6974 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10037 ms.
+Time used(ms) for Parallel Version: 6864 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10258 ms.
+Time used(ms) for Parallel Version: 6898 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9982 ms.
+Time used(ms) for Parallel Version: 6905 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9919 ms.
+Time used(ms) for Parallel Version: 6846 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10026 ms.
+Time used(ms) for Parallel Version: 6909 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10694 ms.
+Time used(ms) for Parallel Version: 6950 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10726 ms.
+Time used(ms) for Parallel Version: 6904 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10025 ms.
+Time used(ms) for Parallel Version: 6897 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10716 ms.
+Time used(ms) for Parallel Version: 6886 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9978 ms.
+Time used(ms) for Parallel Version: 6913 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10097 ms.
+Time used(ms) for Parallel Version: 6841 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9926 ms.
+Time used(ms) for Parallel Version: 6883 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10327 ms.
+Time used(ms) for Parallel Version: 6971 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9912 ms.
+Time used(ms) for Parallel Version: 6807 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9921 ms.
+Time used(ms) for Parallel Version: 6868 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10201 ms.
+Time used(ms) for Parallel Version: 6763 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9910 ms.
+Time used(ms) for Parallel Version: 6877 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10012 ms.
+Time used(ms) for Parallel Version: 6858 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9963 ms.
+Time used(ms) for Parallel Version: 6962 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10248 ms.
+Time used(ms) for Parallel Version: 6946 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10109 ms.
+Time used(ms) for Parallel Version: 6900 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10002 ms.
+Time used(ms) for Parallel Version: 6915 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10027 ms.
+Time used(ms) for Parallel Version: 6899 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10128 ms.
+Time used(ms) for Parallel Version: 6943 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10066 ms.
+Time used(ms) for Parallel Version: 6944 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10009 ms.
+Time used(ms) for Parallel Version: 6890 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10040 ms.
+Time used(ms) for Parallel Version: 6927 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10037 ms.
+Time used(ms) for Parallel Version: 6954 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10247 ms.
+Time used(ms) for Parallel Version: 6934 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9972 ms.
+Time used(ms) for Parallel Version: 6840 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10341 ms.
+Time used(ms) for Parallel Version: 7362 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10045 ms.
+Time used(ms) for Parallel Version: 6936 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10703 ms.
+Time used(ms) for Parallel Version: 7028 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9991 ms.
+Time used(ms) for Parallel Version: 7179 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 9941 ms.
+Time used(ms) for Parallel Version: 6980 ms.
+
+================================================
+
+*************  La: 6, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10006 ms.
+Time used(ms) for Parallel Version: 6908 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10055 ms.
+Time used(ms) for Parallel Version: 6992 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 10028 ms.
+Time used(ms) for Parallel Version: 6948 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 17829 ms.
+Time used(ms) for Parallel Version: 9694 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15418 ms.
+Time used(ms) for Parallel Version: 10002 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15435 ms.
+Time used(ms) for Parallel Version: 10094 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15415 ms.
+Time used(ms) for Parallel Version: 9547 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15426 ms.
+Time used(ms) for Parallel Version: 9617 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15134 ms.
+Time used(ms) for Parallel Version: 9612 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15557 ms.
+Time used(ms) for Parallel Version: 9623 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15089 ms.
+Time used(ms) for Parallel Version: 9650 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15341 ms.
+Time used(ms) for Parallel Version: 9687 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15307 ms.
+Time used(ms) for Parallel Version: 9673 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15348 ms.
+Time used(ms) for Parallel Version: 9682 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15181 ms.
+Time used(ms) for Parallel Version: 9634 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15112 ms.
+Time used(ms) for Parallel Version: 9507 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15249 ms.
+Time used(ms) for Parallel Version: 9514 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15058 ms.
+Time used(ms) for Parallel Version: 9667 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15319 ms.
+Time used(ms) for Parallel Version: 9543 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15402 ms.
+Time used(ms) for Parallel Version: 9701 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15520 ms.
+Time used(ms) for Parallel Version: 9519 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15552 ms.
+Time used(ms) for Parallel Version: 10158 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15224 ms.
+Time used(ms) for Parallel Version: 9928 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15208 ms.
+Time used(ms) for Parallel Version: 9670 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15414 ms.
+Time used(ms) for Parallel Version: 9797 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15452 ms.
+Time used(ms) for Parallel Version: 9548 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15533 ms.
+Time used(ms) for Parallel Version: 9635 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15950 ms.
+Time used(ms) for Parallel Version: 9654 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15984 ms.
+Time used(ms) for Parallel Version: 9725 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 16760 ms.
+Time used(ms) for Parallel Version: 10698 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 16068 ms.
+Time used(ms) for Parallel Version: 9717 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 16049 ms.
+Time used(ms) for Parallel Version: 9684 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15352 ms.
+Time used(ms) for Parallel Version: 9646 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15346 ms.
+Time used(ms) for Parallel Version: 9632 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15947 ms.
+Time used(ms) for Parallel Version: 9629 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15364 ms.
+Time used(ms) for Parallel Version: 9992 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 17059 ms.
+Time used(ms) for Parallel Version: 9962 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15678 ms.
+Time used(ms) for Parallel Version: 9474 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15181 ms.
+Time used(ms) for Parallel Version: 9571 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15312 ms.
+Time used(ms) for Parallel Version: 9731 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15222 ms.
+Time used(ms) for Parallel Version: 9506 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15268 ms.
+Time used(ms) for Parallel Version: 10241 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15717 ms.
+Time used(ms) for Parallel Version: 9770 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15467 ms.
+Time used(ms) for Parallel Version: 9991 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 16001 ms.
+Time used(ms) for Parallel Version: 9607 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15460 ms.
+Time used(ms) for Parallel Version: 9879 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15408 ms.
+Time used(ms) for Parallel Version: 9520 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15963 ms.
+Time used(ms) for Parallel Version: 9613 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15183 ms.
+Time used(ms) for Parallel Version: 9620 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15177 ms.
+Time used(ms) for Parallel Version: 9670 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15193 ms.
+Time used(ms) for Parallel Version: 9450 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15192 ms.
+Time used(ms) for Parallel Version: 9703 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 16083 ms.
+Time used(ms) for Parallel Version: 11497 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15465 ms.
+Time used(ms) for Parallel Version: 9653 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15952 ms.
+Time used(ms) for Parallel Version: 9569 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15957 ms.
+Time used(ms) for Parallel Version: 9656 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15236 ms.
+Time used(ms) for Parallel Version: 9717 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 16018 ms.
+Time used(ms) for Parallel Version: 9658 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15282 ms.
+Time used(ms) for Parallel Version: 9642 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15991 ms.
+Time used(ms) for Parallel Version: 9657 ms.
+
+================================================
+
+*************  La: 7, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 16023 ms.
+Time used(ms) for Parallel Version: 9651 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15984 ms.
+Time used(ms) for Parallel Version: 9733 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 15938 ms.
+Time used(ms) for Parallel Version: 9585 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22618 ms.
+Time used(ms) for Parallel Version: 13728 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22505 ms.
+Time used(ms) for Parallel Version: 14065 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22639 ms.
+Time used(ms) for Parallel Version: 13914 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22533 ms.
+Time used(ms) for Parallel Version: 14277 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22704 ms.
+Time used(ms) for Parallel Version: 13854 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22143 ms.
+Time used(ms) for Parallel Version: 13932 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22502 ms.
+Time used(ms) for Parallel Version: 13843 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22180 ms.
+Time used(ms) for Parallel Version: 13917 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22338 ms.
+Time used(ms) for Parallel Version: 13728 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 23610 ms.
+Time used(ms) for Parallel Version: 14061 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22427 ms.
+Time used(ms) for Parallel Version: 14161 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22263 ms.
+Time used(ms) for Parallel Version: 14054 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22491 ms.
+Time used(ms) for Parallel Version: 14088 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 23220 ms.
+Time used(ms) for Parallel Version: 14303 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 23133 ms.
+Time used(ms) for Parallel Version: 14051 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22253 ms.
+Time used(ms) for Parallel Version: 13714 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22347 ms.
+Time used(ms) for Parallel Version: 14458 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 23726 ms.
+Time used(ms) for Parallel Version: 14272 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22962 ms.
+Time used(ms) for Parallel Version: 13678 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22577 ms.
+Time used(ms) for Parallel Version: 14382 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22994 ms.
+Time used(ms) for Parallel Version: 13957 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22093 ms.
+Time used(ms) for Parallel Version: 14082 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22817 ms.
+Time used(ms) for Parallel Version: 13923 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22234 ms.
+Time used(ms) for Parallel Version: 13962 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22639 ms.
+Time used(ms) for Parallel Version: 13740 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22316 ms.
+Time used(ms) for Parallel Version: 14050 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22285 ms.
+Time used(ms) for Parallel Version: 13823 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22904 ms.
+Time used(ms) for Parallel Version: 14015 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22694 ms.
+Time used(ms) for Parallel Version: 14013 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22710 ms.
+Time used(ms) for Parallel Version: 14037 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22557 ms.
+Time used(ms) for Parallel Version: 13931 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22683 ms.
+Time used(ms) for Parallel Version: 13639 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22860 ms.
+Time used(ms) for Parallel Version: 14426 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22450 ms.
+Time used(ms) for Parallel Version: 13865 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22604 ms.
+Time used(ms) for Parallel Version: 13980 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22776 ms.
+Time used(ms) for Parallel Version: 14041 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 23319 ms.
+Time used(ms) for Parallel Version: 14076 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 23001 ms.
+Time used(ms) for Parallel Version: 14159 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22592 ms.
+Time used(ms) for Parallel Version: 14195 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 23017 ms.
+Time used(ms) for Parallel Version: 13837 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22274 ms.
+Time used(ms) for Parallel Version: 14047 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22524 ms.
+Time used(ms) for Parallel Version: 13579 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22875 ms.
+Time used(ms) for Parallel Version: 13767 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22558 ms.
+Time used(ms) for Parallel Version: 13686 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22937 ms.
+Time used(ms) for Parallel Version: 13801 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22316 ms.
+Time used(ms) for Parallel Version: 13905 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22851 ms.
+Time used(ms) for Parallel Version: 13924 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 23059 ms.
+Time used(ms) for Parallel Version: 13885 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22514 ms.
+Time used(ms) for Parallel Version: 14030 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22524 ms.
+Time used(ms) for Parallel Version: 14319 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22481 ms.
+Time used(ms) for Parallel Version: 13909 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22666 ms.
+Time used(ms) for Parallel Version: 14074 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22647 ms.
+Time used(ms) for Parallel Version: 14040 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22577 ms.
+Time used(ms) for Parallel Version: 14184 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 23045 ms.
+Time used(ms) for Parallel Version: 14262 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22609 ms.
+Time used(ms) for Parallel Version: 14048 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22523 ms.
+Time used(ms) for Parallel Version: 13642 ms.
+
+================================================
+
+*************  La: 8, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22787 ms.
+Time used(ms) for Parallel Version: 13944 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 25767 ms.
+Time used(ms) for Parallel Version: 14910 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 22812 ms.
+Time used(ms) for Parallel Version: 13914 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33974 ms.
+Time used(ms) for Parallel Version: 20063 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33832 ms.
+Time used(ms) for Parallel Version: 19855 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33255 ms.
+Time used(ms) for Parallel Version: 20656 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33193 ms.
+Time used(ms) for Parallel Version: 20133 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33469 ms.
+Time used(ms) for Parallel Version: 20393 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33529 ms.
+Time used(ms) for Parallel Version: 20538 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 32877 ms.
+Time used(ms) for Parallel Version: 20250 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33594 ms.
+Time used(ms) for Parallel Version: 20030 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33689 ms.
+Time used(ms) for Parallel Version: 20475 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33099 ms.
+Time used(ms) for Parallel Version: 19985 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34041 ms.
+Time used(ms) for Parallel Version: 19869 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33492 ms.
+Time used(ms) for Parallel Version: 20346 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33100 ms.
+Time used(ms) for Parallel Version: 20444 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33078 ms.
+Time used(ms) for Parallel Version: 20484 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33066 ms.
+Time used(ms) for Parallel Version: 20356 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33653 ms.
+Time used(ms) for Parallel Version: 19969 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33162 ms.
+Time used(ms) for Parallel Version: 20033 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 35196 ms.
+Time used(ms) for Parallel Version: 20281 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33473 ms.
+Time used(ms) for Parallel Version: 19813 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33065 ms.
+Time used(ms) for Parallel Version: 20158 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33436 ms.
+Time used(ms) for Parallel Version: 19813 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33023 ms.
+Time used(ms) for Parallel Version: 19871 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34844 ms.
+Time used(ms) for Parallel Version: 20471 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33164 ms.
+Time used(ms) for Parallel Version: 20559 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33232 ms.
+Time used(ms) for Parallel Version: 20197 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34463 ms.
+Time used(ms) for Parallel Version: 20219 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33452 ms.
+Time used(ms) for Parallel Version: 20220 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33384 ms.
+Time used(ms) for Parallel Version: 20171 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34108 ms.
+Time used(ms) for Parallel Version: 19747 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33236 ms.
+Time used(ms) for Parallel Version: 19759 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33769 ms.
+Time used(ms) for Parallel Version: 19930 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33765 ms.
+Time used(ms) for Parallel Version: 20175 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34672 ms.
+Time used(ms) for Parallel Version: 19976 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33555 ms.
+Time used(ms) for Parallel Version: 21152 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33865 ms.
+Time used(ms) for Parallel Version: 19661 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33285 ms.
+Time used(ms) for Parallel Version: 19795 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33200 ms.
+Time used(ms) for Parallel Version: 19689 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34702 ms.
+Time used(ms) for Parallel Version: 19807 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34246 ms.
+Time used(ms) for Parallel Version: 19782 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34641 ms.
+Time used(ms) for Parallel Version: 19735 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33503 ms.
+Time used(ms) for Parallel Version: 19828 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 35442 ms.
+Time used(ms) for Parallel Version: 19555 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33904 ms.
+Time used(ms) for Parallel Version: 19896 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33427 ms.
+Time used(ms) for Parallel Version: 19772 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33105 ms.
+Time used(ms) for Parallel Version: 21303 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33439 ms.
+Time used(ms) for Parallel Version: 19865 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33430 ms.
+Time used(ms) for Parallel Version: 20195 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33034 ms.
+Time used(ms) for Parallel Version: 20408 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34376 ms.
+Time used(ms) for Parallel Version: 21428 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33272 ms.
+Time used(ms) for Parallel Version: 20142 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34303 ms.
+Time used(ms) for Parallel Version: 19786 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34269 ms.
+Time used(ms) for Parallel Version: 19794 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34603 ms.
+Time used(ms) for Parallel Version: 19827 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33491 ms.
+Time used(ms) for Parallel Version: 19635 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 34029 ms.
+Time used(ms) for Parallel Version: 20209 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33173 ms.
+Time used(ms) for Parallel Version: 19655 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33863 ms.
+Time used(ms) for Parallel Version: 19723 ms.
+
+================================================
+
+*************  La: 9, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33137 ms.
+Time used(ms) for Parallel Version: 20374 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 33601 ms.
+Time used(ms) for Parallel Version: 19684 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 32903 ms.
+Time used(ms) for Parallel Version: 19990 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47389 ms.
+Time used(ms) for Parallel Version: 29529 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48205 ms.
+Time used(ms) for Parallel Version: 29584 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47983 ms.
+Time used(ms) for Parallel Version: 28596 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47191 ms.
+Time used(ms) for Parallel Version: 28445 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48105 ms.
+Time used(ms) for Parallel Version: 28631 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48371 ms.
+Time used(ms) for Parallel Version: 29232 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48025 ms.
+Time used(ms) for Parallel Version: 28966 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47528 ms.
+Time used(ms) for Parallel Version: 28908 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47542 ms.
+Time used(ms) for Parallel Version: 29411 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47107 ms.
+Time used(ms) for Parallel Version: 30544 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47043 ms.
+Time used(ms) for Parallel Version: 28646 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47926 ms.
+Time used(ms) for Parallel Version: 29007 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48056 ms.
+Time used(ms) for Parallel Version: 28700 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48330 ms.
+Time used(ms) for Parallel Version: 28738 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47941 ms.
+Time used(ms) for Parallel Version: 28562 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48134 ms.
+Time used(ms) for Parallel Version: 29574 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48509 ms.
+Time used(ms) for Parallel Version: 29437 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 46924 ms.
+Time used(ms) for Parallel Version: 29503 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48045 ms.
+Time used(ms) for Parallel Version: 28869 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47456 ms.
+Time used(ms) for Parallel Version: 29738 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47350 ms.
+Time used(ms) for Parallel Version: 29407 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47248 ms.
+Time used(ms) for Parallel Version: 29459 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47411 ms.
+Time used(ms) for Parallel Version: 28536 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48104 ms.
+Time used(ms) for Parallel Version: 29124 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47899 ms.
+Time used(ms) for Parallel Version: 29356 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48186 ms.
+Time used(ms) for Parallel Version: 29316 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48331 ms.
+Time used(ms) for Parallel Version: 28735 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48465 ms.
+Time used(ms) for Parallel Version: 29574 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48332 ms.
+Time used(ms) for Parallel Version: 28570 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47434 ms.
+Time used(ms) for Parallel Version: 31254 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47398 ms.
+Time used(ms) for Parallel Version: 28790 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 46656 ms.
+Time used(ms) for Parallel Version: 29107 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47957 ms.
+Time used(ms) for Parallel Version: 29272 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47090 ms.
+Time used(ms) for Parallel Version: 28992 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47114 ms.
+Time used(ms) for Parallel Version: 28550 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 46949 ms.
+Time used(ms) for Parallel Version: 28594 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 46694 ms.
+Time used(ms) for Parallel Version: 28904 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 46805 ms.
+Time used(ms) for Parallel Version: 30057 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48453 ms.
+Time used(ms) for Parallel Version: 29367 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47972 ms.
+Time used(ms) for Parallel Version: 28532 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47696 ms.
+Time used(ms) for Parallel Version: 28732 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48302 ms.
+Time used(ms) for Parallel Version: 29070 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48189 ms.
+Time used(ms) for Parallel Version: 28663 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47999 ms.
+Time used(ms) for Parallel Version: 28596 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47369 ms.
+Time used(ms) for Parallel Version: 29389 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47236 ms.
+Time used(ms) for Parallel Version: 28729 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48438 ms.
+Time used(ms) for Parallel Version: 28850 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 50491 ms.
+Time used(ms) for Parallel Version: 30736 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48869 ms.
+Time used(ms) for Parallel Version: 29422 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47596 ms.
+Time used(ms) for Parallel Version: 28398 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48132 ms.
+Time used(ms) for Parallel Version: 30111 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47670 ms.
+Time used(ms) for Parallel Version: 28673 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47164 ms.
+Time used(ms) for Parallel Version: 28528 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47133 ms.
+Time used(ms) for Parallel Version: 28349 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47807 ms.
+Time used(ms) for Parallel Version: 29287 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48695 ms.
+Time used(ms) for Parallel Version: 28462 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48282 ms.
+Time used(ms) for Parallel Version: 29642 ms.
+
+================================================
+
+*************  La: 10, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 48168 ms.
+Time used(ms) for Parallel Version: 29937 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47789 ms.
+Time used(ms) for Parallel Version: 29596 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 47146 ms.
+Time used(ms) for Parallel Version: 28839 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70953 ms.
+Time used(ms) for Parallel Version: 41674 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69848 ms.
+Time used(ms) for Parallel Version: 42518 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 71154 ms.
+Time used(ms) for Parallel Version: 42397 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69034 ms.
+Time used(ms) for Parallel Version: 42317 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69327 ms.
+Time used(ms) for Parallel Version: 42125 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70037 ms.
+Time used(ms) for Parallel Version: 42462 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69057 ms.
+Time used(ms) for Parallel Version: 42419 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70468 ms.
+Time used(ms) for Parallel Version: 42809 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69861 ms.
+Time used(ms) for Parallel Version: 41167 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69647 ms.
+Time used(ms) for Parallel Version: 42250 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69403 ms.
+Time used(ms) for Parallel Version: 41907 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69241 ms.
+Time used(ms) for Parallel Version: 41258 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 68665 ms.
+Time used(ms) for Parallel Version: 42571 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70526 ms.
+Time used(ms) for Parallel Version: 42266 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 71884 ms.
+Time used(ms) for Parallel Version: 42103 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70878 ms.
+Time used(ms) for Parallel Version: 41411 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 71884 ms.
+Time used(ms) for Parallel Version: 42056 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70991 ms.
+Time used(ms) for Parallel Version: 41226 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69751 ms.
+Time used(ms) for Parallel Version: 42401 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69026 ms.
+Time used(ms) for Parallel Version: 42167 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69945 ms.
+Time used(ms) for Parallel Version: 41523 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69365 ms.
+Time used(ms) for Parallel Version: 42493 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70554 ms.
+Time used(ms) for Parallel Version: 42507 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70240 ms.
+Time used(ms) for Parallel Version: 42367 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70122 ms.
+Time used(ms) for Parallel Version: 41448 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 71828 ms.
+Time used(ms) for Parallel Version: 41597 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 71821 ms.
+Time used(ms) for Parallel Version: 42191 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 71690 ms.
+Time used(ms) for Parallel Version: 43563 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70469 ms.
+Time used(ms) for Parallel Version: 42851 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69925 ms.
+Time used(ms) for Parallel Version: 41990 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69702 ms.
+Time used(ms) for Parallel Version: 41780 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69983 ms.
+Time used(ms) for Parallel Version: 42694 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 71103 ms.
+Time used(ms) for Parallel Version: 43805 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70369 ms.
+Time used(ms) for Parallel Version: 41207 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69808 ms.
+Time used(ms) for Parallel Version: 42554 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69671 ms.
+Time used(ms) for Parallel Version: 42083 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 68448 ms.
+Time used(ms) for Parallel Version: 42279 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70057 ms.
+Time used(ms) for Parallel Version: 42023 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69550 ms.
+Time used(ms) for Parallel Version: 41711 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69243 ms.
+Time used(ms) for Parallel Version: 41799 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69202 ms.
+Time used(ms) for Parallel Version: 42555 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69008 ms.
+Time used(ms) for Parallel Version: 42548 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70622 ms.
+Time used(ms) for Parallel Version: 42443 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 68750 ms.
+Time used(ms) for Parallel Version: 42024 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70238 ms.
+Time used(ms) for Parallel Version: 41840 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 68700 ms.
+Time used(ms) for Parallel Version: 42050 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70818 ms.
+Time used(ms) for Parallel Version: 42151 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69149 ms.
+Time used(ms) for Parallel Version: 41997 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70829 ms.
+Time used(ms) for Parallel Version: 42450 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69810 ms.
+Time used(ms) for Parallel Version: 42149 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70177 ms.
+Time used(ms) for Parallel Version: 42494 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69931 ms.
+Time used(ms) for Parallel Version: 41984 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 68947 ms.
+Time used(ms) for Parallel Version: 41386 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70538 ms.
+Time used(ms) for Parallel Version: 40981 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70852 ms.
+Time used(ms) for Parallel Version: 44735 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 69937 ms.
+Time used(ms) for Parallel Version: 42723 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 72033 ms.
+Time used(ms) for Parallel Version: 41996 ms.
+
+================================================
+
+*************  La: 11, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70514 ms.
+Time used(ms) for Parallel Version: 43565 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 68346 ms.
+Time used(ms) for Parallel Version: 42363 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 70107 ms.
+Time used(ms) for Parallel Version: 42395 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 1  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 102978 ms.
+Time used(ms) for Parallel Version: 64586 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101391 ms.
+Time used(ms) for Parallel Version: 64930 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101355 ms.
+Time used(ms) for Parallel Version: 64276 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 2  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101660 ms.
+Time used(ms) for Parallel Version: 65073 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100482 ms.
+Time used(ms) for Parallel Version: 64482 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 102646 ms.
+Time used(ms) for Parallel Version: 65654 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 3  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101992 ms.
+Time used(ms) for Parallel Version: 67644 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101516 ms.
+Time used(ms) for Parallel Version: 65183 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101791 ms.
+Time used(ms) for Parallel Version: 64612 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 4  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101247 ms.
+Time used(ms) for Parallel Version: 63921 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 99980 ms.
+Time used(ms) for Parallel Version: 63748 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101954 ms.
+Time used(ms) for Parallel Version: 66186 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 5  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 102085 ms.
+Time used(ms) for Parallel Version: 64554 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100462 ms.
+Time used(ms) for Parallel Version: 66683 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100475 ms.
+Time used(ms) for Parallel Version: 64902 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 6  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101380 ms.
+Time used(ms) for Parallel Version: 64734 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 102048 ms.
+Time used(ms) for Parallel Version: 65325 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101405 ms.
+Time used(ms) for Parallel Version: 64525 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 7  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100393 ms.
+Time used(ms) for Parallel Version: 64623 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101838 ms.
+Time used(ms) for Parallel Version: 66120 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101366 ms.
+Time used(ms) for Parallel Version: 64462 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 8  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101381 ms.
+Time used(ms) for Parallel Version: 63935 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 102402 ms.
+Time used(ms) for Parallel Version: 64390 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 99448 ms.
+Time used(ms) for Parallel Version: 64567 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 9  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 99504 ms.
+Time used(ms) for Parallel Version: 64724 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101572 ms.
+Time used(ms) for Parallel Version: 65486 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101524 ms.
+Time used(ms) for Parallel Version: 64462 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 10  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101339 ms.
+Time used(ms) for Parallel Version: 63373 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 99985 ms.
+Time used(ms) for Parallel Version: 65144 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101507 ms.
+Time used(ms) for Parallel Version: 64966 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 11  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101194 ms.
+Time used(ms) for Parallel Version: 66036 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100772 ms.
+Time used(ms) for Parallel Version: 64411 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101505 ms.
+Time used(ms) for Parallel Version: 64969 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 12  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101597 ms.
+Time used(ms) for Parallel Version: 65296 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101302 ms.
+Time used(ms) for Parallel Version: 64402 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101406 ms.
+Time used(ms) for Parallel Version: 63968 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 13  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100405 ms.
+Time used(ms) for Parallel Version: 65473 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 102597 ms.
+Time used(ms) for Parallel Version: 64636 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101924 ms.
+Time used(ms) for Parallel Version: 63763 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 14  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 102512 ms.
+Time used(ms) for Parallel Version: 63858 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100890 ms.
+Time used(ms) for Parallel Version: 64880 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100544 ms.
+Time used(ms) for Parallel Version: 64446 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 15  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 99896 ms.
+Time used(ms) for Parallel Version: 64967 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 101096 ms.
+Time used(ms) for Parallel Version: 65114 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100074 ms.
+Time used(ms) for Parallel Version: 64671 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 16  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100146 ms.
+Time used(ms) for Parallel Version: 64173 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 99907 ms.
+Time used(ms) for Parallel Version: 64323 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100811 ms.
+Time used(ms) for Parallel Version: 63716 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 17  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100343 ms.
+Time used(ms) for Parallel Version: 63692 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100082 ms.
+Time used(ms) for Parallel Version: 64323 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100307 ms.
+Time used(ms) for Parallel Version: 63804 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 18  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 99239 ms.
+Time used(ms) for Parallel Version: 63715 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100568 ms.
+Time used(ms) for Parallel Version: 63639 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100597 ms.
+Time used(ms) for Parallel Version: 63860 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 19  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100559 ms.
+Time used(ms) for Parallel Version: 64449 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 99843 ms.
+Time used(ms) for Parallel Version: 63912 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100627 ms.
+Time used(ms) for Parallel Version: 62668 ms.
+
+================================================
+
+*************  La: 12, BLAFair_getavoid_devideNum: 20  *********************
+
+The Running Time 1: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100220 ms.
+Time used(ms) for Parallel Version: 62060 ms.
+
+================================================
+
+The Running Time 2: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100567 ms.
+Time used(ms) for Parallel Version: 63709 ms.
+
+================================================
+
+The Running Time 3: 
+--------------------------------------------------
+Time used(ms) for Sequential Version: 100479 ms.
+Time used(ms) for Parallel Version: 63636 ms.
+
 ================================================

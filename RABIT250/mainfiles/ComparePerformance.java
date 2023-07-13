@@ -48,10 +48,10 @@ public class ComparePerformance {
         int la = Integer.parseInt(args[2]);
 
         int num_proc = Integer.parseInt(args[3]);
-        int BLAFair_getavoid_devideNum = Integer.parseInt(args[4]);
+        int devideNum = Integer.parseInt(args[4]);
 
         Simulation sim = new Simulation();
-        ParallelSimulation parallelSim = new ParallelSimulation(num_proc, BLAFair_getavoid_devideNum);
+        ParallelSimulation parallelSim = new ParallelSimulation(num_proc, devideNum);
 
         //NOTICE: the first time running two programs
 //        long ttime3 = System.currentTimeMillis();
@@ -83,7 +83,7 @@ public class ComparePerformance {
             System.out.println("Both results are the same object, be careful!");
 
         } else if (result1.containsAll(result2) && result2.containsAll(result1)){
-            System.out.println("Correct! The calculated parallel result is the same as the sequential result!");
+            //System.out.println("Correct! The calculated parallel result is the same as the sequential result!");
 
         } else{
             System.out.println("InCorrect! The calculated parallel result is different from the sequential result!");
