@@ -21,3 +21,4 @@ In function ComparePerformance.main():
 想法：
 > 1. 由于在function BLAFair_getavoid 中，changed_x和changed_y并不直接关联，因此局部最优解可以导致全局最优解（即，对于每个小部分都要求时间最短，则整个function执行时间最短）
 > 2. 在写报告时可以写一下： 对于每一个p，q循环，如何通过公式计算出t越大，拆分程度keyiyueda（n^2*t > (n^2/m)*(T+t) + d）
+> 3. if(BLAFair_refine_W(n_states,n_symbols,post,post_len,W,la)) changed=true; 和 BLAFair_getavoid(isFinal,n_states,n_symbols,post,post_len,W,avoid,la);相互影响吗， 能否并发执行？
