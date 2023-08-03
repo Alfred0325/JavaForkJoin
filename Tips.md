@@ -25,3 +25,11 @@ In function ComparePerformance.main():
 
 Background：
 > 1.  forward and backward simulations and trace inclusions.
+>
+
+Question:
+> 1. if(BLAFair_refine_W(n_states,n_symbols,post,post_len,W,la)) changed=true; 和BLAFair_getavoid(isFinal,n_states,n_symbols,post,post_len,W,avoid,la);相互影响吗， 能否并发执行？
+> 2. private int threshold_forkjoin_getavoid(int n_states){
+		return Math.max(80,n_states/16);
+	} threshold 要怎么分？如何科学性的测出这个值？
+
