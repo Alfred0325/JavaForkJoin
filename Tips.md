@@ -32,4 +32,7 @@ Question:
 > 2. private int threshold_forkjoin_getavoid(int n_states){
 		return Math.max(80,n_states/16);
 	} threshold 要怎么分？如何科学性的测出这个值？
+> 3. 为什么attack传进去以后会有nullpointer？
+> 4. 报告要怎么分析， 如何控制变量，分析哪些东西？
+> 5. 还有哪些可以优化的地方？
 
